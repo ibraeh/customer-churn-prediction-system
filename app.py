@@ -307,4 +307,4 @@ else:
 
 # Footer
 st.markdown("---")
-st.markdown("Built with ❤️ using Streamlit | Model: XGBoost | Last Updated: 2025")
+st.markdown("Built with ❤️ using Streamlit | Model: XGBoost ")
