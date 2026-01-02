@@ -8,12 +8,6 @@
 
 ---
 
-## 🎬 Demo
-
-![Demo GIF](images/demo.gif)
-
----
-
 ## 💼 Business Problem
 
 Customer churn costs businesses billions annually. Identifying at-risk customers **before they leave** enables:
