@@ -4,7 +4,7 @@
 
 > An end-to-end machine learning system that predicts customer churn and identifies key retention factors using XGBoost and SHAP explainability.
 
-[Live Demo](https://customer-churn-prediction-systemgit-4stggezuhgphyherkrkrzf.streamlit.app/) | [View Notebooks](https://github.com/ibraeh/customer-churn-prediction-system/tree/main/notebooks)
+[Live Demo](https://dhj9wt54htjcht2qogfr3c.streamlit.app/) | [View Notebooks](https://github.com/ibraeh/customer-churn-prediction-system/tree/main/notebooks)
 
 ---
 
@@ -187,7 +187,7 @@ Visit `http://localhost:8501`
 
 ### Use Live Demo
 
-Simply visit: [https://customer-churn-prediction-systemgit-4stggezuhgphyherkrkrzf.streamlit.app/](https://customer-churn-prediction-systemgit-4stggezuhgphyherkrkrzf.streamlit.app/)
+Simply visit: [https://dhj9wt54htjcht2qogfr3c.streamlit.app/](https://dhj9wt54htjcht2qogfr3c.streamlit.app/)
 
 ---
 
